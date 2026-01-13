@@ -62,7 +62,7 @@ The system publishes data to the MQTT topic in the following **JSON format**:
   "ph": 7.05,
   "turbidity": 4.50,
   "tds": 120,
-  "distance": 15
+  "distance": 16
 }
 ```
 
